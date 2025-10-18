@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+*.zip
+*.exe
+*.mp4
+*.fig
+*.psd
+*.log
+*.env
+dist/
+build/
